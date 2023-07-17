@@ -1,0 +1,2 @@
+E:\c#\CS_TestConsoleApp\releases\CS_TestConsoleApp.pdb
+E:\c#\CS_TestConsoleApp\releases\CS_TestConsoleApp.exe
